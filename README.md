@@ -10,7 +10,11 @@ Step2:Click on Teachable Machine
 Step3:Next click on Get started
 ![Screenshot 2025-01-09 234913](https://github.com/user-attachments/assets/9bd41d7c-94ff-430a-ae85-2820dc847646)
 
-Step4:Click pn image model
+
+
+Step4:Click on image model
+
+
 ![Screenshot 2025-01-09 234950](https://github.com/user-attachments/assets/856f23d6-96f7-46d2-ae30-53bf4631927f)
 
 Step5: Click on Standard image option
@@ -25,13 +29,16 @@ Step7: Train your model
 ![Screenshot 2025-01-09 235455](https://github.com/user-attachments/assets/15a21609-9fc8-4a0e-a7b6-2d9eed5a0de6)
 
 Step8:Export your model
-![Screenshot 2025-01-09 235553](https://github.com/user-attachments/assets/46c66d3c-6c8a-4c8e-809d-fc02754c48c9)
 
 Step9: download your "opencv keras model"  in "tensorflow"
+![Screenshot 2025-01-09 235553](https://github.com/user-attachments/assets/46c66d3c-6c8a-4c8e-809d-fc02754c48c9)
 
 Step10: place the converted keras file in the project directory as "keras.h5" and "labels.txt" in pycharm
+![image](https://github.com/user-attachments/assets/ece970bc-b19b-4c9a-b6d7-df5847ea7668)
+
 
 Step11:Now create a file in pycharm as "main.py" and enter the code
+ ![image](https://github.com/user-attachments/assets/e814bf48-7522-4fcd-bdec-6dd073e33f79)
 
 Step12:Run the code
 
