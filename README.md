@@ -231,12 +231,13 @@ Error: Camera or database connection not being released properly, leading to loc
 Cause: Resources not being released correctly after use.
 Solution: Use try-finally blocks or context managers to ensure resources are released properly:
 
-
+Code:
 try:
     # Code to access camera or database
 finally:
     camera.release()
     conn.close()
+
 By anticipating these errors and applying the suggested solutions, you can streamline the development process and reduce troubleshooting time for your facial recognition project in PyCharm.
 
 
